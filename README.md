@@ -1,6 +1,4 @@
 
-# Welcome to LearnCS8 Resume Website
+## Romario Lomeli Resume
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![This is the link to my website. It includes a profile picture and information about me.](https://d5ee98201fec4e468f061f669d01e24b.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/img/website.png)
